@@ -5,7 +5,7 @@
 This project demonstrates the development and training of an intelligent warehouse navigation agent using Unity's ML-Agents Toolkit and reinforcement learning techniques. The agent learns to navigate complex warehouse environments, reach designated targets, and avoid both static and dynamic obstacles through trial-and-error learning.
 
 ## 🎯 Objectives
-![alt text](<img width="720" alt="Picture1" src="https://github.com/user-attachments/assets/168be0d0-3cc2-447d-8a7b-48b456bf0178" />)
+<img width="720" alt="Picture1" src="https://github.com/user-attachments/assets/168be0d0-3cc2-447d-8a7b-48b456bf0178" />
 
 - **Primary Goal**: Develop an AI agent capable of autonomous navigation in a warehouse environment
 - **Learning Approach**: Implement reinforcement learning with reward-based training strategies
