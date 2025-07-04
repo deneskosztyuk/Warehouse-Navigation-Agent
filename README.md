@@ -30,6 +30,7 @@ This project demonstrates the development and training of an intelligent warehou
 
 ### Environment
 <img width="717" alt="Picture3" src="https://github.com/user-attachments/assets/e384a4f8-3133-4345-b4f9-e8495ec8c4ce" />
+
 - **Warehouse Layout**: Walls, storage containers, and navigational corridors
 - **Dynamic Elements**: Moving forklifts creating unpredictable obstacles
 - **Complexity Scaling**: Modular environment design using Unity prefabs
@@ -37,6 +38,7 @@ This project demonstrates the development and training of an intelligent warehou
 
 ### Actuators
 <img width="609" alt="Picture4" src="https://github.com/user-attachments/assets/aeef2faf-c0a2-4551-82fd-a13e2d9aff2f" />
+
 - **Movement Controls**: Forward, backward, and rotational movement
 - **Speed Regulation**: Controllable velocity parameters
 - **Decision Execution**: Real-time action selection based on neural network output
