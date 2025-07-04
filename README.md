@@ -37,8 +37,6 @@ This project demonstrates the development and training of an intelligent warehou
 - **Training Scenarios**: Multiple environment configurations for robust learning
 
 ### Actuators
-<img width="609" alt="Picture4" src="https://github.com/user-attachments/assets/aeef2faf-c0a2-4551-82fd-a13e2d9aff2f" />
-
 - **Movement Controls**: Forward, backward, and rotational movement
 - **Speed Regulation**: Controllable velocity parameters
 - **Decision Execution**: Real-time action selection based on neural network output
@@ -104,22 +102,7 @@ The project successfully demonstrated the effectiveness of reinforcement learnin
 - **Performance Optimization**: Measurable improvement in task completion efficiency
 - **Scalability**: Framework adaptable to various warehouse configurations
 
-## 🔮 Future Development
-
-### Neural Network Enhancement
-- **Architecture Optimization**: Implement more sophisticated neural network designs
-- **Hyperparameter Tuning**: Fine-tune learning rates and network parameters
-- **Training Algorithm**: Explore advanced reinforcement learning techniques
-
-### Environment Expansion
-- **Multi-Agent Systems**: Introduce multiple learning agents with interaction capabilities
-- **Dynamic Targets**: Implement moving objectives for increased complexity
-- **Real-World Simulation**: Enhanced physics and realistic warehouse operations
-
-### Code Optimization
-- **Performance Efficiency**: Optimize algorithms for better resource utilization
-- **Reward System**: Develop more nuanced feedback mechanisms
-- **Debugging Framework**: Implement comprehensive testing and validation systems
+<img width="609" alt="Picture4" src="https://github.com/user-attachments/assets/aeef2faf-c0a2-4551-82fd-a13e2d9aff2f" />
 
 ## 🎓 Educational Value
 
