@@ -62,13 +62,19 @@ The agent demonstrated clear learning capabilities through several key metrics:
 
 ### Performance Metrics
 <img width="607" alt="Picture6" src="https://github.com/user-attachments/assets/3b22d668-cc3f-492f-9642-01e896cf22aa" />
+Over time, the agent's interaction with its environment evolved markedly. It began to understand the space layout better, avoided obstacles with increased consistency, and chose more efficient routes to its goals. This evolution exemplifies the agent's capacity to learn and adapt strategies through interaction. A critical aspect of the agent's learning was the reinforcement learning model applied. This model rewarded positive behaviours, like reaching targets, and penalized negative actions, such as colliding with obstacles or choosing inefficient routes. This reward-penalty system significantly influenced the agent's learning, as shown by its gradual improvement in task completion efficiency.
+
+![Picture8](https://github.com/user-attachments/assets/56bbb445-8ad7-43d8-8bf0-e3018f94ecf3)
+The above TensorBoard images will provide a visual insight into the agent's learning progress, displaying metrics such as reward accumulation, task completion steps, and success rates at different training stages. This visual data is invaluable for understanding the agent's learning dynamics and making data-driven improvements.
+This exploration of machine learning within a simulated environment underscores the potential and challenges of training AI agents. The journey of the ML agent, from its rudimentary beginnings to its current capabilities, highlights the intricacies of AI learning and the necessity for ongoing refinement. The insights gained from this project extend beyond our specific objectives, contributing to the broader understanding of AI and machine learning in virtual settings.
+
 - **Reward Accumulation**: Steady increase over training episodes
 - **Episode Length**: Decreased time to complete navigation tasks
 - **Penalty Reduction**: Significant drop in negative reinforcement events
 - **Mean Reward**: Consistent upward trend indicating successful learning
 
 ### Challenges Encountered
-![Picture8](https://github.com/user-attachments/assets/366758d5-ae58-4621-92f3-3497e5f6fcf9)
+
 - **Hardware Limitations**: Computational constraints affecting training depth
 - **Dynamic Elements**: Complexity of integrating moving obstacles
 - **Overfitting**: Need for environment variability to ensure generalization
