@@ -29,12 +29,14 @@ This project demonstrates the development and training of an intelligent warehou
 - **Learning Progress**: Reward accumulation and success rate improvement
 
 ### Environment
+<img width="717" alt="Picture3" src="https://github.com/user-attachments/assets/e384a4f8-3133-4345-b4f9-e8495ec8c4ce" />
 - **Warehouse Layout**: Walls, storage containers, and navigational corridors
 - **Dynamic Elements**: Moving forklifts creating unpredictable obstacles
 - **Complexity Scaling**: Modular environment design using Unity prefabs
 - **Training Scenarios**: Multiple environment configurations for robust learning
 
 ### Actuators
+<img width="609" alt="Picture4" src="https://github.com/user-attachments/assets/aeef2faf-c0a2-4551-82fd-a13e2d9aff2f" />
 - **Movement Controls**: Forward, backward, and rotational movement
 - **Speed Regulation**: Controllable velocity parameters
 - **Decision Execution**: Real-time action selection based on neural network output
@@ -49,6 +51,7 @@ This project demonstrates the development and training of an intelligent warehou
 
 ### Learning Progression
 The agent demonstrated clear learning capabilities through several key metrics:
+<img width="551" alt="Picture5" src="https://github.com/user-attachments/assets/98510322-5b22-4b1c-9f76-3886da19c93a" />
 
 - **Initial Behavior**: Random, aimless movement patterns
 - **Progressive Improvement**: Systematic enhancement in navigation efficiency
@@ -56,12 +59,14 @@ The agent demonstrated clear learning capabilities through several key metrics:
 - **Target Achievement**: Increased success rate in reaching designated goals
 
 ### Performance Metrics
+<img width="607" alt="Picture6" src="https://github.com/user-attachments/assets/3b22d668-cc3f-492f-9642-01e896cf22aa" />
 - **Reward Accumulation**: Steady increase over training episodes
 - **Episode Length**: Decreased time to complete navigation tasks
 - **Penalty Reduction**: Significant drop in negative reinforcement events
 - **Mean Reward**: Consistent upward trend indicating successful learning
 
 ### Challenges Encountered
+![Picture8](https://github.com/user-attachments/assets/366758d5-ae58-4621-92f3-3497e5f6fcf9)
 - **Hardware Limitations**: Computational constraints affecting training depth
 - **Dynamic Elements**: Complexity of integrating moving obstacles
 - **Overfitting**: Need for environment variability to ensure generalization
